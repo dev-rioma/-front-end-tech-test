@@ -82,7 +82,7 @@ Esto correrá ambas aplicaciones (Express y CRA) al mismo tiempo.
 
 ## Descripción del proyecto
 
- Implementacion de un carrito de compras simple que consume toda la info del API local se uso Reactjs para la creacion del front y express para el backend
+ Implementacion de un carrito de compras simple que consume toda la info del API local se uso Reactjs para la creación del front y express para el backend
 
 
 

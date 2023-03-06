@@ -1,0 +1,8 @@
+.container_products{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1.2rem 6%;
+  gap: 1.2rem 8rem;
+  box-sizing: border-box;
+}
